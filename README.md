@@ -6,4 +6,4 @@ CustomerID（客户ID），Gender（性别），Age（年龄），Annual Income 
 
 数据地址：https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-任务介绍：使用k-means算法对客户进行聚类，以求帮助运营团队实现精细化运营。
+任务介绍：使用k-means算法对客户进行聚类，并使用matplotlib, seaborn, TSNE等可视化工具对聚类结果进行可视化分析，以求帮助运营团队实现精细化运营。
